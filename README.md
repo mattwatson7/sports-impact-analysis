@@ -44,6 +44,6 @@ This project processes a video of players, detecting and tracking them using YOL
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/player-force-velocity-estimation.git
+git clone https://github.com/mattwatson7/player-force-velocity-estimation.git
 cd player-force-velocity-estimation
 pip install -r requirements.txt
